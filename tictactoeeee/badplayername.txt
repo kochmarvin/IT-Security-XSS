@@ -1,0 +1,1 @@
+<img onError=alert('Hacked.') src='invalid.url.com'>
